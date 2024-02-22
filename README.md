@@ -1,5 +1,5 @@
 # progetto-ARE
-video funzionamento: https://youtu.be/HczYyFtvmeQ <br />
+video funzionamento: https://youtu.be/OYWbeZBc81U <br />
 link drive alle immagini del progetto e allo schema del circuito: https://drive.google.com/drive/folders/1zdgQuA1f47QRJ__KuSI5YgSUtakY0Su_?usp=sharing<br />
 
 --------------------------------------
