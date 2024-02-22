@@ -1,6 +1,8 @@
 # progetto-ARE
 video funzionamento: https://youtu.be/HczYyFtvmeQ
-link drive alle immagini del progetto: https://drive.google.com/drive/folders/1zdgQuA1f47QRJ__KuSI5YgSUtakY0Su_?usp=sharing
+link drive alle immagini del progetto e allo schema del circuito: https://drive.google.com/drive/folders/1zdgQuA1f47QRJ__KuSI5YgSUtakY0Su_?usp=sharing
+
+--------------------------------------
 installare le librerie: LiquidCrystal I2C (by MArco Schwarts versione 1.1.2), MFRC522 (versione 1.4.10) 
 
 Descrizione:
