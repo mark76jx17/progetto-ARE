@@ -1,10 +1,22 @@
 # progetto-ARE
-video funzionamento: https://youtu.be/OYWbeZBc81U <br />
+video funzionamento: https://youtu.be/nuFRE95ERMY<br />
 link drive alle immagini del progetto e allo schema del circuito: https://drive.google.com/drive/folders/1zdgQuA1f47QRJ__KuSI5YgSUtakY0Su_?usp=drive_link<br />
 
 --------------------------------------
 installare le librerie: LiquidCrystal I2C (by MArco Schwarts versione 1.1.2), MFRC522 (versione 1.4.10) <br />
 <br />
+
+COMPONENTI<br />
+- scheda Arduino Uno <br />
+- 2 x Hald Breadboard <br />
+- schermo LCD 16x2 con interfaccia I2C<br />
+- lettore RFID <br />
+- interruttore magnetico <br />
+- led Rosso, led Verde (con 2 resistenze da 240 ohm) <br />
+- Button Switch (con una resistenza da 10k ohm) <br />
+- Buzzer <br />
+- 2 x Micro Servo compatibile con SG90<br />
+
 Descrizione:<br />
 Questo progetto Arduino implementa un sistema di sblocco di una scatola (con due servomotori che servono da serratura) utilizzando carte RFID (Identificazione a Radio Frequenza) per il controllo degli accessi. Il sistema è composto da un microcontrollore Arduino uno, un modulo lettore RFID,modulo LCD con interfaccia I2C, due servo motori SG90 per i meccanismi di blocco/sblocco, LED per il feedback visivo, un buzzer per segnali sonori e un interruttore magnetico per monitorare lo stato di apertura della scatola (https://www.amazon.it/dp/B085XQLQ3N?psc=1&ref=ppx_yo2ov_dt_b_product_details).<br />
 
