@@ -8,7 +8,7 @@ installare le librerie: LiquidCrystal I2C (by MArco Schwarts versione 1.1.2), MF
 
 COMPONENTI<br />
 - scheda Arduino Uno <br />
-- 2 x Hald Breadboard <br />
+- 2 x Half Breadboard <br />
 - schermo LCD 16x2 con interfaccia I2C<br />
 - lettore RFID <br />
 - interruttore magnetico <br />
